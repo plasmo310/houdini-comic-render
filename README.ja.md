@@ -11,7 +11,7 @@
 
 ## シーン内容
 
-* 2コマ分の設定と、その合成処理を用意しています。</br>それぞれのcopnetの中でポスト処理を行なっています。
+* 2コマ分の設定と、その合成処理を用意しています。</br>それぞれのcopnetの中でポスト処理を行なっています。</br>
    <img src="/ReadMeContents/01_node_sop.png" width=600/>
    
    | Name | Description |
